@@ -1,0 +1,4 @@
+#Mon Apr 15 12:04:11 KST 2019
+base.0=D\:\\android_studio_workspace\\PeterPan_Templete\\peterPan\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

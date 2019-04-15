@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PeterPan_Templete.iml" filepath="$PROJECT_DIR$/PeterPan_Templete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/peterPan/peterPan.iml" filepath="$PROJECT_DIR$/peterPan/peterPan.iml" />
+    </modules>
+  </component>
+</project>

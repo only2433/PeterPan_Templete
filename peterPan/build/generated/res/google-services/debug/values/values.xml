@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">606553147156-4e9n6ff3f0g25ono8d9kvr898e6c9pg5.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://storybook-peterpan.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">606553147156</string>
+    <string name="google_api_key" translatable="false">AIzaSyCb252lRPTRiqFr7vxOiw0Bs4Bcxwycgdk</string>
+    <string name="google_app_id" translatable="false">1:606553147156:android:67a75bcc262f2c7e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCb252lRPTRiqFr7vxOiw0Bs4Bcxwycgdk</string>
+    <string name="google_storage_bucket" translatable="false">storybook-peterpan.appspot.com</string>
+    <string name="project_id" translatable="false">storybook-peterpan</string>
+</resources>

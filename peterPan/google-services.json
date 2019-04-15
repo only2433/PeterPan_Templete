@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "606553147156",
+    "firebase_url": "https://storybook-peterpan.firebaseio.com",
+    "project_id": "storybook-peterpan",
+    "storage_bucket": "storybook-peterpan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606553147156:android:67a75bcc262f2c7e",
+        "android_client_info": {
+          "package_name": "com.littlefox.storybook.peterpan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606553147156-4e9n6ff3f0g25ono8d9kvr898e6c9pg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb252lRPTRiqFr7vxOiw0Bs4Bcxwycgdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606553147156-4e9n6ff3f0g25ono8d9kvr898e6c9pg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
